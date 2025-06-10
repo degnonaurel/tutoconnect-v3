@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tutoconnect/static/css/main.231e871e.css",
+    "main.js": "/Tutoconnect/static/js/main.65b3a016.js",
+    "static/js/453.3febe1fd.chunk.js": "/Tutoconnect/static/js/453.3febe1fd.chunk.js",
+    "index.html": "/Tutoconnect/index.html",
+    "main.231e871e.css.map": "/Tutoconnect/static/css/main.231e871e.css.map",
+    "main.65b3a016.js.map": "/Tutoconnect/static/js/main.65b3a016.js.map",
+    "453.3febe1fd.chunk.js.map": "/Tutoconnect/static/js/453.3febe1fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.231e871e.css",
+    "static/js/main.65b3a016.js"
+  ]
+}
